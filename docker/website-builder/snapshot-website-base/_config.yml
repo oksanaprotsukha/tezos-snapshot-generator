@@ -35,8 +35,8 @@ doks:
               profile_url: 'https://github.com/midl-dev/tezos-snapshot-generator'
             - network_name: twitter
               profile_url: 'https://twitter.com/midl_dev'
-#            - network_name: sphere
-#              profile_url: 'https://midl.dev'
+            - network_name: sphere
+              profile_url: 'https://midl.dev'
     google_analytics:
         tracking_code: # Add your Google Analytics tracking code to activate Google Analytics
     comments:
